@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "530795129962",
+    "firebase_url": "https://mysaladfirebase.firebaseio.com",
+    "project_id": "mysaladfirebase",
+    "storage_bucket": "mysaladfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530795129962:android:7c432777dfd024fd",
+        "android_client_info": {
+          "package_name": "com.dragner.mysaladfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530795129962-7gqg0f993qmcapume32fkoj5vp5cmb9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dragner.mysaladfirebase",
+            "certificate_hash": "49d980760a7ed0f77db5314232eac91d6668b451"
+          }
+        },
+        {
+          "client_id": "530795129962-89ocnrgse8m65c0f1nmrql2usuf5p6rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMmgDPxbVFIDKC-BC-drc5i4i7znIdaYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530795129962-89ocnrgse8m65c0f1nmrql2usuf5p6rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
